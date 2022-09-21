@@ -42,4 +42,4 @@ THEN I should have proper build scripts for a webpack application
 To install the dependencies for this project, the user needs to clone the repository and then run the command "npm install". This will install all necessary dependencies since they are all included in the package.json.
 
 ## Contact   
-[Email:](mailto:bai1eigh@outlook.com)
+[Email](mailto:bai1eigh@outlook.com)
